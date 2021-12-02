@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+}
+
+p{
+    background-color: red;
+    margin: 0px 10px;
+    padding: 10px 0px;
+    font-size: 20px;
+    outline-offset: 5px;
+    outline: 2px solid yellow;
+}
+
+ul{
+    list-style-type: circle; 
+}
+/*disc= default
+circe,square ,no is the css property of ul list */
+
+ol{
+    list-style-type: decimal-leading-zero;
+}
+
+/*decimal= default
+decimal-leading-zero= 01
+lower-roman = roman number small
+upper-roman = roman number capital
+lower-alpa = small letter
+upper-alpha = capital letter */
+
+li{
+    color: blue;
+}

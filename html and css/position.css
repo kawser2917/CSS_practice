@@ -1,0 +1,19 @@
+.container1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid red;
+    overflow: auto;
+    padding: 20px;
+    outline: 2px solid green;
+    outline-offset: 5px;
+    position:relative;
+    left: 500px;
+    top: 200px;
+    text-align: center;
+    
+}
+div.container1 img{
+    position: relative;
+    left: 200px;
+    top: 200px;
+}

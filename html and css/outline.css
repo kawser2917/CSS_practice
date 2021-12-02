@@ -1,0 +1,14 @@
+.container{
+     border-top-style: solid;
+     border-left-style: solid  ;
+     border-bottom-style:solid  ;
+     border-right-style:  solid  ;
+     border-top-color: red;
+     border-bottom-color: red;
+     border-right-color: yellow;
+     border-left-color: yellow;
+    outline: 3px solid red;
+    outline-offset: 4px;
+    margin: 50px;
+    
+}

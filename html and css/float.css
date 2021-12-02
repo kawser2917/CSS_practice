@@ -1,0 +1,26 @@
+div{  
+     
+    height: 400px;
+    float: left;
+}
+.ione, .itwo , .ithree , .ifour{
+    width: 400px;
+
+}
+.tone,.ttwo,.tthree,.tfour{
+    width: 800px;
+    padding: 20px;
+}
+.itwo{
+    float: right;
+}
+
+.ithree{
+    float: left;
+}
+
+.ifour{
+    float: right;
+}
+
+  

@@ -1,0 +1,11 @@
+.container1{
+    background-color: yellow;
+    width:200px;
+    padding: 100px;
+    border: 20px solid hotpink;
+    margin: 10px;
+}
+
+.container2{
+    margin-left: 130px;
+    }

@@ -1,0 +1,19 @@
+.photo{
+    border: 2px solid rgb(57, 35, 155);
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    opacity: 1;
+    overflow: auto;
+    float: left;
+}
+.text{
+    border: 2px solid red;
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin: 20px;
+    overflow-x: scroll;
+}
+
+ 

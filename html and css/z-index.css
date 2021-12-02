@@ -1,0 +1,36 @@
+ body{
+     background-image:url("nature2.jpeg");
+     background-size: 100%;
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+ }
+
+ .container{
+     height: 300px;
+     width: 300px;
+     position: absolute;
+     left: 300px;
+     top: 200px;
+     overflow: fixed;
+     text-align: center;
+     border: 5px solid gray;
+     border-radius: 25px;
+    }
+
+    .one{
+        position: absolute;
+        left: 50px;
+        top: 70px;
+        z-index: 2;
+        color: white;
+        border: 1px solid yellow;
+        border-radius: 40px;
+        width: 70%;
+    }
+
+    .two{
+        position: absolute;
+        z-index: 1;
+        width: 100%;
+    }
+  
